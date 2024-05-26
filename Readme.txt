@@ -1,9 +1,9 @@
-﻿Project -1 
+﻿Project - Video Effects
 
-Done by : Chirag Dhoka Jain & Keval Visaria
+Done by : Keval Visaria
 
 
 Github link: https://shorturl.at/CHRS8 
 
-Os: Windows
+OS: Windows
 IDE: Visual studio community 2022
